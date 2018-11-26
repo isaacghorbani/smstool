@@ -1,7 +1,7 @@
 {
     "name": "isaacghorbani/smstool",
     "description": "laravel package for sms sending",
-    "type": "package",
+    
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,8 @@
      "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "isaacghorbani\\Smstool\\": "src/"
+            "Isaacghorbani\\Smstool\\": "src/"
         }
-    }
+    },
+    "prefer-stable": true
 }
