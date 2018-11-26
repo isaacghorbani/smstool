@@ -6,11 +6,11 @@
  * Time: 3:19 AM
  */
 
-namespace Isaac\Smstool;
+namespace Isaacghorbani\Smstool;
 
 
 use Carbon\Carbon;
-use Isaac\Smstool\Models\Sms;
+use Isaacghorbani\Smstool\Models\Sms;
 
 trait HasSmstool
 {

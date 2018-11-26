@@ -1,10 +1,10 @@
 <?php
 
-namespace Isaac\Smstool\Http\Controllers;
+namespace Isaacghorbani\Smstool\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Isaac\Smstool\Models\Sms;
+use Isaacghorbani\Smstool\Models\Sms;
 
 class SmsController extends Controller
 {

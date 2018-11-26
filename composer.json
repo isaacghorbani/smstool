@@ -1,14 +1,14 @@
 {
-    "name": "isaac/smstool",
+    "name": "Isaacghorbani/smstool",
     "description": "laravel package for sms sending",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "isaac",
+            "name": "Isaacghorbani",
             "email": "isaacghorbani@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "0.1",
     "require": {}
 }

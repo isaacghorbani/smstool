@@ -1,6 +1,6 @@
 <?php
 
-namespace Isaac\Smstool\Models;
+namespace Isaacghorbani\Smstool\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

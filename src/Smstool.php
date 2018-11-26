@@ -6,13 +6,13 @@
  * Time: 2:02 AM
  */
 
-namespace Isaac\Smstool;
+namespace Isaacghorbani\Smstool;
 
 
-use Isaac\Smstool\Constructs\SmstoolInterface;
+use Isaacghorbani\Smstool\Constructs\SmstoolInterface;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;
-use Isaac\Smstool\Models\Sms;
+use Isaacghorbani\Smstool\Models\Sms;
 use phpDocumentor\Reflection\DocBlock\Tags\See;
 
 class Smstool implements  SmstoolInterface

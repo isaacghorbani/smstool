@@ -1,6 +1,6 @@
 <?php
 
-namespace Isaac\Smstool;
+namespace Isaacghorbani\Smstool;
 
 use function foo\func;
 use Illuminate\Support\ServiceProvider;

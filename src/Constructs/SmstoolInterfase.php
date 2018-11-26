@@ -6,7 +6,7 @@
  * Time: 1:51 AM
  */
 
-namespace Isaac\Smstool\Constructs;
+namespace Isaacghorbani\Smstool\Constructs;
 
 
 interface SmstoolInterface
