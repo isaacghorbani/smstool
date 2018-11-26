@@ -9,7 +9,7 @@
             "email": "isaacghorbani@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+   
     "require": {},
     "extra": {
         "branch-alias": {
