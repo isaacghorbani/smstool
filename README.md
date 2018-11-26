@@ -1,2 +1,2 @@
 # smstool
-a tools for easy use teh-sms api service.
+a laravel package for easy use teh-sms api service.
