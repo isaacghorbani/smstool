@@ -11,9 +11,10 @@
     ],
    
     "require": {},
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
+     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "isaacghorbani\\Smstool\\": "src/"
         }
     }
 }
